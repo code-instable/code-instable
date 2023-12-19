@@ -17,6 +17,7 @@ I develop essentially on Python and R for statistics and machine learning, and u
 
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allemand-instable&layout=compact)
 
+If you are interested in a nice and functional LaTeX workflow, you can check out my [LaTeX Template](https://github.com/allemand-instable/LaTeX-Template) which I updated to suit my needs for writing math reports for my school projects locally as easy as possible, I hope it will help you as well !
 
 ### Academic Projects
 
@@ -24,13 +25,13 @@ One might be interI ested in the different projects completed during my scholars
 
 #### Monte Carlo Integration
 
-[![LaTeX Template Card](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-3A-Projet-Methodologie-wAIS)](https://github.com/allemand-instable/ENSAI-3A-Projet-Methodologie-wAIS)
+[![wAIS Methodological Project ENSAI](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-3A-Projet-Methodologie-wAIS)](https://github.com/allemand-instable/ENSAI-3A-Projet-Methodologie-wAIS)
 
 #### Functional Data Analysis
 
-[![LaTeX Template Card](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-2A-stage-FGAM)](https://github.com/allemand-instable/ENSAI-2A-stage-FGAM)
+[![STAGE ENSAI FDA NON PARAM FGAM](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-2A-stage-FGAM)](https://github.com/allemand-instable/ENSAI-2A-stage-FGAM)
 
-[![LaTeX Template Card](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-3A-FDA-Presentation-APLS)](https://github.com/allemand-instable/ENSAI-3A-FDA-Presentation-APLS)
+[![FDA - Présentation APLS](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-3A-FDA-Presentation-APLS)](https://github.com/allemand-instable/ENSAI-3A-FDA-Presentation-APLS)
 
 These projects lead me to what I do today which is research in Statistics in the field of Functional Data Analysis.
 
