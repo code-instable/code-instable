@@ -21,13 +21,13 @@ If you are interested in a nice and functional LaTeX workflow, you can check out
 
 ### Academic Projects
 
-One might be interI ested in the different projects completed during my scholarship at ENSAI :
+One might be interested in the different projects completed during my scholarship at ENSAI. These lead to what I am currently working on today, and I tried my best to be as pedagogical as possible, so that you too can learn about something interesting. Some are in french though...
 
-#### Monte Carlo Integration
+#### Monte Carlo Integration [EN]
 
 [![wAIS Methodological Project ENSAI](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-3A-Projet-Methodologie-wAIS)](https://github.com/allemand-instable/ENSAI-3A-Projet-Methodologie-wAIS)
 
-#### Functional Data Analysis
+#### Functional Data Analysis [FR]
 
 [![STAGE ENSAI FDA NON PARAM FGAM](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-2A-stage-FGAM)](https://github.com/allemand-instable/ENSAI-2A-stage-FGAM)
 
