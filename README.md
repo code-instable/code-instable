@@ -13,7 +13,7 @@ I am passionate about mathematics. I plan to try sharing my love for mathematics
   - using unconventional writing style 
 
 #### as a developer
-I develop essentially on Python and R for statistics and machine learning, and use LaTeX quite intensively for writing.
+I develop essentially on Python and R for statistics and machine learning, and use LaTeX quite intensively for writing :
 
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allemand-instable&layout=compact)
 
