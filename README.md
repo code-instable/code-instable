@@ -4,7 +4,8 @@
 
 I am passionate about mathematics. I plan to try sharing my love for mathematics to a wide audience using all the tools available for science communication :
 
-- Articles on the web [with my future website](scienceinstable.com)
+- Articles on the web [with my future website](http://www.scienceinstable.com)
+  - source code : [built with Astro](https://github.com/allemand-instable/website)
 - Videos about statistics [on my youtube channel](https://www.youtube.com/@scienceinstable)
 - Open-Source free courses made using LaTeX :
   - several Github projects to released yet on :
