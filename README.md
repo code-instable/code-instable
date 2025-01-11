@@ -34,6 +34,8 @@ One might be interested in the different projects completed during my scholarshi
 
 [![FDA - Présentation APLS](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-3A-FDA-Presentation-APLS)](https://github.com/allemand-instable/ENSAI-3A-FDA-Presentation-APLS)
 
+[![FDA - Régularité : Etude de l'hyperparamètre du voisinage à considérer dans le lissage à noyaux pour l'estimation de la régularité des sample paths](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-stage_fin_etude-datastorm_fda_regularite-rapport)](https://github.com/allemand-instable/ENSAI-stage_fin_etude-datastorm_fda_regularite-rapport)
+
 These projects lead me to what I do today which is research in Statistics in the field of Functional Data Analysis.
 
 ### RESEARCH
