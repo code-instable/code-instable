@@ -16,9 +16,9 @@ I am passionate about mathematics. I plan to try sharing my love for mathematics
 #### as a developer
 I develop essentially on Python and R for statistics and machine learning, and use LaTeX quite intensively for writing :
 
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allemand-instable&layout=compact)
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-instable&layout=compact)
 
-If you are interested in a nice and functional LaTeX workflow, you can check out my [LaTeX Template](https://github.com/allemand-instable/LaTeX-Template) which I updated to suit my needs for writing math reports for my school projects locally as easy as possible, I hope it will help you as well !
+If you are interested in a nice and functional LaTeX workflow, you can check out my [LaTeX Template](https://github.com/code-instable/LaTeX-Template) which I updated to suit my needs for writing math reports for my school projects locally as easy as possible, I hope it will help you as well !
 
 ### Academic Projects
 
@@ -26,15 +26,15 @@ One might be interested in the different projects completed during my scholarshi
 
 #### Monte Carlo Integration [EN]
 
-[![wAIS Methodological Project ENSAI](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-3A-Projet-Methodologie-wAIS)](https://github.com/allemand-instable/ENSAI-3A-Projet-Methodologie-wAIS)
+[![wAIS Methodological Project ENSAI](https://github-readme-stats.vercel.app/api/pin/?username=code-instable&repo=ENSAI-3A-Projet-Methodologie-wAIS)](https://github.com/code-instable/ENSAI-3A-Projet-Methodologie-wAIS)
 
 #### Functional Data Analysis [FR]
 
-[![STAGE ENSAI FDA NON PARAM FGAM](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-2A-stage-FGAM)](https://github.com/allemand-instable/ENSAI-2A-stage-FGAM)
+[![STAGE ENSAI FDA NON PARAM FGAM](https://github-readme-stats.vercel.app/api/pin/?username=code-instable&repo=ENSAI-2A-stage-FGAM)](https://github.com/code-instable/ENSAI-2A-stage-FGAM)
 
-[![FDA - Présentation APLS](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-3A-FDA-Presentation-APLS)](https://github.com/allemand-instable/ENSAI-3A-FDA-Presentation-APLS)
+[![FDA - Présentation APLS](https://github-readme-stats.vercel.app/api/pin/?username=code-instable&repo=ENSAI-3A-FDA-Presentation-APLS)](https://github.com/code-instable/ENSAI-3A-FDA-Presentation-APLS)
 
-[![FDA - Régularité : Etude de l'hyperparamètre du voisinage à considérer dans le lissage à noyaux pour l'estimation de la régularité des sample paths](https://github-readme-stats.vercel.app/api/pin/?username=allemand-instable&repo=ENSAI-stage_fin_etude-datastorm_fda_regularite-rapport)](https://github.com/allemand-instable/ENSAI-stage_fin_etude-datastorm_fda_regularite-rapport)
+[![FDA - Régularité : Etude de l'hyperparamètre du voisinage à considérer dans le lissage à noyaux pour l'estimation de la régularité des sample paths](https://github-readme-stats.vercel.app/api/pin/?username=code-instable&repo=ENSAI-stage_fin_etude-datastorm_fda_regularite-rapport)](https://github.com/code-instable/ENSAI-stage_fin_etude-datastorm_fda_regularite-rapport)
 
 These projects lead me to what I do today which is research in Statistics in the field of Functional Data Analysis.
 
