@@ -40,8 +40,8 @@ These projects lead me to what I do today which is research in Statistics in the
 
 ### RESEARCH
 
-<a href="https://uclouvain.be/fr/facultes/sc/lsba">
-  <img src="https://custom-icon-badges.demolab.com/badge/Place-Université Catholique de Louvain-3c6382?style=for-the-badge&logo=milestone&logoColor=white">
+<a href="https://www.uclouvain.be/en/research-institutes/lidam/isba">
+    <img src="https://custom-icon-badges.demolab.com/badge/Place-Université Catholique de Louvain-3c6382?style=for-the-badge&logo=milestone&logoColor=white">
 </a>
 
 I am PhD student working on **Nonparametric Regression of Functional Additive Models** at *Université Catholique de Louvain* (UCL).
