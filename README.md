@@ -1,47 +1,68 @@
-### Me
+# Hugo Brunet
 
-#### as a mathematics lover
+PhD student in Statistics at **UCLouvain**.
+I work on **Functional Data Analysis**, **nonparametric regression**, **functional additive models**, and **measurement error**.
 
-I am passionate about mathematics. I plan to try sharing my love for mathematics to a wide audience using all the tools available for science communication :
+---
 
-- Articles on the web [with my future website](http://www.scienceinstable.com)
-  - source code : [built with Astro](https://github.com/allemand-instable/website)
-- Videos about statistics [on my youtube channel](https://www.youtube.com/@scienceinstable)
-- Open-Source free courses made using LaTeX :
-  - several Github projects to released yet on :
-    - functional data analysis (intro)
-    - french preparatory class courses (MP)
-  - using unconventional writing style 
+## Mathematics and science communication
 
-#### as a developer
-I develop essentially on Python and R for statistics and machine learning, and use LaTeX quite intensively for writing :
+I am interested in sharing mathematics and statistics through:
 
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-instable&layout=compact)
+- web articles: [scienceinstable.com](http://www.scienceinstable.com)
+- videos: [Science Instable](https://www.youtube.com/@scienceinstable)
+- open-source courses and notes
 
-If you are interested in a nice and functional LaTeX workflow, you can check out my [LaTeX Template](https://github.com/code-instable/LaTeX-Template) which I updated to suit my needs for writing math reports for my school projects locally as easy as possible, I hope it will help you as well !
+---
 
-### Academic Projects
+## Developer profile
 
-One might be interested in the different projects completed during my scholarship at ENSAI. These lead to what I am currently working on today, and I tried my best to be as pedagogical as possible, so that you too can learn about something interesting. Some are in french though...
+I mostly use **Python**, **R**, **Typst** and **LaTeX** for statistics, machine learning, numerical methods, and reproducible research via **Nix**.
 
-#### Monte Carlo Integration [EN]
+<picture>
+  <img src="/assets/github/profile-overview.svg" alt="GitHub profile overview" width="100%">
+</picture>
 
-[![wAIS Methodological Project ENSAI](https://github-readme-stats.vercel.app/api/pin/?username=code-instable&repo=ENSAI-3A-Projet-Methodologie-wAIS)](https://github.com/code-instable/ENSAI-3A-Projet-Methodologie-wAIS)
+My LaTeX workflow/template:
 
-#### Functional Data Analysis [FR]
+[**LaTeX Template**](https://github.com/code-instable/LaTeX-Template)
 
-[![STAGE ENSAI FDA NON PARAM FGAM](https://github-readme-stats.vercel.app/api/pin/?username=code-instable&repo=ENSAI-2A-stage-FGAM)](https://github.com/code-instable/ENSAI-2A-stage-FGAM)
+## Open-source contributions
 
-[![FDA - Présentation APLS](https://github-readme-stats.vercel.app/api/pin/?username=code-instable&repo=ENSAI-3A-FDA-Presentation-APLS)](https://github.com/code-instable/ENSAI-3A-FDA-Presentation-APLS)
+I also contribute to open-source ecosystems. Many of these contributions are small, by the [Archimedean property](https://en.wikipedia.org/wiki/Archimedean_property), many of these small ɛ-contributions can eventually add up to a large contribution overtime. (🙂)
 
-[![FDA - Régularité : Etude de l'hyperparamètre du voisinage à considérer dans le lissage à noyaux pour l'estimation de la régularité des sample paths](https://github-readme-stats.vercel.app/api/pin/?username=code-instable&repo=ENSAI-stage_fin_etude-datastorm_fda_regularite-rapport)](https://github.com/code-instable/ENSAI-stage_fin_etude-datastorm_fda_regularite-rapport)
+<picture>
+  <img src="/assets/github/open-source-contributions.svg" alt="Open-source contributions" width="100%">
+</picture>
 
-These projects lead me to what I do today which is research in Statistics in the field of Functional Data Analysis.
+Selected upstreams:
 
-### RESEARCH
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+- [helix-editor/helix](https://github.com/helix-editor/helix)
+
+---
+
+## Academic projects
+
+Selected academic projects from ENSAI, mostly related to simulation, statistics, and functional data analysis.
+
+<picture>
+  <img src="/assets/github/academic-projects.svg" alt="Academic GitHub projects" width="100%">
+</picture>
+
+---
+
+## Research
 
 <a href="https://www.uclouvain.be/en/research-institutes/lidam/isba">
-    <img src="https://custom-icon-badges.demolab.com/badge/Place-Université Catholique de Louvain-3c6382?style=for-the-badge&logo=milestone&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Place-Université%20Catholique%20de%20Louvain-3c6382?style=for-the-badge&logo=milestone&logoColor=white" alt="UCLouvain ISBA">
 </a>
 
-I am PhD student working on **Nonparametric Regression of Functional Additive Models** at *Université Catholique de Louvain* (UCL).
+Current research topics:
+
+- Functional Data Analysis
+- nonparametric regression
+- additive models
+- measurement error
+- deconvolution
+- numerical statistics
